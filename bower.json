@@ -1,0 +1,17 @@
+{
+  "name": "food-journal",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Jason Brown <jasontbrown99@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
